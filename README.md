@@ -23,11 +23,3 @@ Digital Signal Processing, 2024, 104469, ISSN 1051-2004, https://doi.org/10.1016
     url = {https://www.sciencedirect.com/science/article/pii/S1051200424000940},
     author = {Zhiqiang Feng and Xiaogang Wang and Jiayi Zhou and Xin Du},
     keywords = {Infrared Surveillance Video, Information Entropy, Multi-Scale Differences},
-
-
-
-
-
-
-
-
