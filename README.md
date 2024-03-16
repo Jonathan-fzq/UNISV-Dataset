@@ -7,8 +7,20 @@ The UNISV dataset consists of unedited or randomly edited video samples, with a 
 
 The UNISV dataset consists of 10 action categories, as shown in Figure 1, namely: "Double Wave," "Wave Hand," "Walk," "Jump," "Squat," "Jogging," "Push People," "Shake Hands," "Embrace," and "Fight." The dataset includes both individual actions and interactive actions involving two individuals. Each action category involves the participation of 6 individuals, totaling 15 participants in video enactment. There are 120 video samples for each of the 10 behavior categories, resulting in a total of 1200 video samples. The videos have a frame rate of 10 frames per second and a resolution of 480 x 248 pixels.
 
+If you use this dataset for your research, please cite:
+Zhiqiang Feng, Xiaogang Wang, Jiayi Zhou, Xin Du, MDJ: A Multi-Scale Difference Joint Keyframe Extraction Algorithm for Infrared Surveillance Video Action Recognition,
+Digital Signal Processing, 2024, 104469, ISSN 1051-2004, https://doi.org/10.1016/j.dsp.2024.104469.
 
-
+@article{FENG2024104469,
+  title = {MDJ: A Multi-Scale Difference Joint Keyframe Extraction Algorithm for Infrared Surveillance Video Action Recognition},
+  journal = {Digital Signal Processing},
+  pages = {104469},
+  year = {2024},
+  ISSN = {1051-2004},
+  doi = {https://doi.org/10.1016/j.dsp.2024.104469},
+  url = {https://www.sciencedirect.com/science/article/pii/S1051200424000940},
+  author = {Zhiqiang Feng and Xiaogang Wang and Jiayi Zhou and Xin Du},
+  keywords = {Infrared Surveillance Video, Information Entropy, Multi-Scale Differences},
 
 
 
