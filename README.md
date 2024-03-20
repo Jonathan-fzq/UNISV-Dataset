@@ -9,8 +9,7 @@ The UNISV dataset consists of 10 action categories, as shown in Figure 1, namely
 
 If you use this dataset for your research, please cite:
 
-Zhiqiang Feng, Xiaogang Wang, Jiayi Zhou, Xin Du, MDJ: A Multi-Scale Difference Joint Keyframe Extraction Algorithm for Infrared Surveillance Video Action Recognition,
-Digital Signal Processing, 2024, 104469, ISSN 1051-2004, https://doi.org/10.1016/j.dsp.2024.104469.
+Feng Z, Wang X, Zhou J, et al. MDJ: A Multi-Scale Difference Joint Keyframe Extraction Algorithm for Infrared Surveillance Video Action Recognition[J]. Digital Signal Processing, 2024: 104469. https://doi.org/10.1016/j.dsp.2024.104469.
 
 ```
 @article{feng2024mdj,
