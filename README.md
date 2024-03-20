@@ -13,13 +13,11 @@ Zhiqiang Feng, Xiaogang Wang, Jiayi Zhou, Xin Du, MDJ: A Multi-Scale Difference 
 Digital Signal Processing, 2024, 104469, ISSN 1051-2004, https://doi.org/10.1016/j.dsp.2024.104469.
 
 ```
-@article{FENG2024104469,
-    title = {MDJ: A Multi-Scale Difference Joint Keyframe Extraction Algorithm for Infrared Surveillance Video Action Recognition},
-    journal = {Digital Signal Processing},
-    pages = {104469},
-    year = {2024},
-    ISSN = {1051-2004},
-    doi = {https://doi.org/10.1016/j.dsp.2024.104469},
-    url = {https://www.sciencedirect.com/science/article/pii/S1051200424000940},
-    author = {Zhiqiang Feng and Xiaogang Wang and Jiayi Zhou and Xin Du},
-    keywords = {Infrared Surveillance Video, Information Entropy, Multi-Scale Differences},
+@article{feng2024mdj,
+  title={MDJ: A Multi-Scale Difference Joint Keyframe Extraction Algorithm for Infrared Surveillance Video Action Recognition},
+  author={Feng, Zhiqiang and Wang, Xiaogang and Zhou, Jiayi and Du, Xin},
+  journal={Digital Signal Processing},
+  pages={104469},
+  year={2024},
+  publisher={Elsevier}
+}
